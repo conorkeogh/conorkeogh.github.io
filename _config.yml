@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Conor Keogh"
   avatar           : "profile.jpg"
-  bio              : "Clinical-academic trainee working on the application of engineering techniques to the management of nervous system pathology"
-  location         : "Oxford"
-  employer         : "Oxford Neural Interfacing"
+  bio              : "Clinical-academic trainee in neurosurgery"
+  location         : "University of Oxford"
+  employer         : #"Oxford Neural Interfacing"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=conor+keogh"
   googlescholar    : "https://scholar.google.com/citations?user=jfE5r4EAAAAJ&hl=en"
   email            : "conor.keogh@nds.ox.ac.uk"
