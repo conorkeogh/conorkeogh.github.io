@@ -39,6 +39,7 @@ Contents
 	- [Grants](#grants)
 	- [Awards](#awards)
 * [Patents](#patents)
+* [Research Tools](#research-tools)
 * [Teaching](#teaching)
 * [Service and Leadership](#service-and-leadership)
 * [Audit and Quality Improvement](#audit-and-quality-improvement)
@@ -209,6 +210,18 @@ Patents
 ======
 
 * System and method for stimulating a nerve, automated resuscitation system; filed 2020, patent pending
+
+Research Tools
+=====
+
+* **WaveWriter**
+	- A device and associated software for generating arbitrary, complex stimulation waveforms for electrical neuromodulation research. Allows straightforward production of complex stimulation methods, including novel stimulation methods.
+* **ONIduino**
+	- A custom microcontroller-based platform for the development of medical devices and research tools. Defined according to Oxford Neural Interfacing's requirements, provides a highly performant system for rapid prototyping and development of new devices and tools for research.
+* **TriggerMate**
+	- A system for generating stimulation pulse trains with custom parameters for electrical neuromodulation research. Allows simple generation of tonic, high frequency and burst stimulation patterns - [Link](https://conorkeogh.net/triggermate)
+* **SyncMaster**
+	- A system for synchronising behavioural tasks with recorded signals. Provides a straightforward method for sending complex event signals over a single channel to recording systems to time-lock signals to behavioural events, including software drivers and analysis methods - [Link](https://conorkeogh.net/syncmaster)
 
 Teaching
 ======
