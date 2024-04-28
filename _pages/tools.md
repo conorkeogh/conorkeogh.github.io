@@ -8,7 +8,7 @@ As part of my work, I develop tools to enable research in clinical and translati
 
 I make these tools available to other researchers to enable research and help others to overcome common issues we have encountered in neuromodulation research.
 
-Please feel free to contact me if you feel you would benefit for support in implementing these tools in your own work or if you would like to collaborate on the development of custom devices and tooling for your research.
+Please feel free to contact me if you feel you would benefit from support in implementing these tools in your own work or if you would like to collaborate on the development of custom devices and tooling for your research.
 
 ## WaveWriter
 > Device and software for generating arbitrary stimulation waveforms
